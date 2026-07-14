@@ -9,7 +9,6 @@ tool can, which makes the voice assistant button usable for:
 
 - Discord / TeamSpeak push-to-talk
 - OBS scene or mute toggles
-- Game keybinds and macros
 - AutoHotkey triggers
 - Accessibility shortcuts
 - …anything that reacts to a key press
