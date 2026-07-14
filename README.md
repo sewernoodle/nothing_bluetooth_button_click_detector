@@ -1,6 +1,12 @@
 # Nothing Headphones (1) — voice assistant button remapper
 
-(the whole description has been written with ai)
+## DISCLAIMER Do not use in competitive online games
+
+This tool captures USB traffic (via USBPcap) and injects a keystroke. Anti-cheat
+systems such as Easy Anti-Cheat and Denuvo can flag packet-capture drivers and
+injected input as unauthorized tooling — even though this only sends one keystroke
+per real button press and gives no gameplay advantage. Close it before launching
+any online game that uses anti-cheat.
 
 Detect button presses on **Nothing Headphones (1)** in real time on Windows, and
 map the **voice assistant button** to any keystroke you want.
@@ -11,6 +17,7 @@ tool can, which makes the voice assistant button usable for:
 
 - Discord / TeamSpeak push-to-talk
 - OBS scene or mute toggles
+- Game keybinds and macros
 - AutoHotkey triggers
 - Accessibility shortcuts
 - …anything that reacts to a key press
